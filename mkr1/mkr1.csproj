@@ -35,5 +35,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="html\css\style.css" />
+    <Content Include="html\img\gazelle.jpg" />
+    <Content Include="html\img\savanna.jpg" />
+    <Content Include="html\index.html" />
+    <Content Include="html\img\elephant.jpg" />
+    <Content Include="html\img\lion.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
